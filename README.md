@@ -1,4 +1,6 @@
-# travel_app_ui
+# Travel App UI 
+
+I made this project from MarcusNG's travel app ui tutorial.
 
 A new Flutter project.
 
