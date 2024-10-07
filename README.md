@@ -11,8 +11,8 @@
 
 Here are some screenshots of the app in action:
 
-![Screenshot_1669387214](https://user-images.githubusercontent.com/114522498/204007539-3e3813a7-f4cd-4bf9-ba22-d1a96ef5ee80.png)
-![Screenshot_1669387221](https://user-images.githubusercontent.com/114522498/204007548-017a7aad-42ac-43ad-a164-40bdb8667f3b.png)
+![Screenshot_1669387214](https://s6.ezgif.com/tmp/ezgif-6-917ac416c3.png)
+![Screenshot_1669387221](https://s6.ezgif.com/tmp/ezgif-6-370486da55.png)
 
 ## Technologies Used
 
